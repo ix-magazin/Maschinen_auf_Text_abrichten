@@ -1,5 +1,5 @@
 # Maschinen_auf_Text_abrichten
-Jupyter-Notebook zum [Sonderheft-Artikel](https://www.heise.de/select/ix/2023/13/2307514452409693169) von Clemens Gutknecht, Leon Schröder und Leon Lukas, erschienen im iX [Special 2023](https://www.heise.de/select/ix/2023/13/).
+Repository zum [Sonderheft-Artikel](https://www.heise.de/select/ix/2023/13/2307514452409693169) von Clemens Gutknecht, Leon Schröder und Leon Lukas, erschienen im iX [Special 2023](https://www.heise.de/select/ix/2023/13/).
 
 # iX-tract
 - Das Durchsuchen der eigenen Dokumente über Stichwörter ist frustrierend, wenn einem partout nicht das richtige Schlagwort einfällt. KI-basierte neuronale Suchen schaffen hier Abhilfe.
