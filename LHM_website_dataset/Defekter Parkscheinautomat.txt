@@ -1,0 +1,64 @@
+Defekter Parkscheinautomat
+
+Sie haben einen technischen Defekt oder Störungen an einem Parkscheinautomaten (PSA) festgestellt? Melden Sie uns das Problem  und geben Sie dabei die Automatennummer an.
+
+Melden Sie technischen Problemen, Fragen und Störungen zu Parkscheinautomaten (PSA) bitte immer mit Angabe der Identifikationsnummer des Automaten (Automatennummer). Die Parkscheinautomatennummer befindet sich auf dem Tarifschild oberhalb des Displays in Form von großen schwarzen Ziffern (drei- bis vierstellige Nummer). Alternativ ist auch die Angabe der Straße mit einer Hausnummer, vor welcher der Automat steht, sehr hilfreich.
+Mögliche Defekte:
+- Parkscheinautomat gibt keinen Parkschein aus.
+- Ankunftszeit auf Parkschein ist identisch Parkzeitende.
+- Es können keine Münzen eingeworfen werden.
+- Nach Münzeinwurf – Kein Parkschein, keine Münzrückgabe.
+- EC-Karte / Geldkarte steckt im Automaten fest.
+- Die eingeworfenen Münzen fallen durch.
+
+Dauer & Kosten
+Bearbeitungszeit
+2-3 Tage
+
+Gebührenrahmen
+keine
+
+Fragen & Antworten
+Der Parkscheinautomat (PSA) gibt keinen Parkschein aus!
+Ist der Automat betriebsbereit? Wurde die grüne Anforderungstaste betätigt? Alternativ Abbruch mit roter Abbruchtaste. Blinkt am Parkscheinautomaten eine rote LED? Zeigt das Display „Außer Betrieb“? Bitte kein Geld nachwerfen oder einen anderen Parkscheinautomaten benutzen. Bitte Parkscheibe im KFZ sichtbar auslegen.
+Wie funktioniert die Rückerstattung der Parkgebühren?
+Die Anträge zur Rückerstattung von Parkgebühren schriftlich schildern an parkraum.t22.tiefbau@muenchen.de oder an Postadresse Landeshauptstadt München, Baureferat Tiefbau, T22/VZB – Verkehrszeichenbetrieb, Parkraumbewirtschaftung, Schragenhofstr. 6, 80992 München
+Die Ankunftszeit auf dem Parkschein ist gleich/identisch zum Parkzeitende!
+Es handelt sich in der Regel um ein „Tagesticket“. Diese Parkscheine werden an Automaten mit einer Gebührenpflicht von 9-23 Uhr (Tarif L1) verkauft. Hinweis: Bitte erfragen, welches Datum auf dem Parkschein bei Parkzeitende gedruckt wurde. Meist handelt es sich um das Datum des darauffolgenden Werktages.
+Es können keine Münzen eingeworfen werden!
+Ist der Parkscheinautomat betriebsbereit? Besteht zur Einwurfzeit keine Gebührenpflicht? Bitte auf Beschilderung und / oder Gebührenschild am Automaten achten. Sollte trotz Gebührenpflicht ein Münzeinwurf nicht möglich sein, bitte einen anderen Parkscheinautomaten benutzen bzw. falls nicht vorhanden eine Parkscheibe mit Notiz im KFZ auslegen.
+EC Karte / Geldkarte steckt im Automaten fest!
+Die Karte kann nur mit Werkzeug (Spitzzange) entfernt werden. Während den genannten Öffnungszeiten umgehend den Verkehrszeichenbetrieb verständigen (Störungstelefonnummer: 233-96250), ansonsten die zuständige Polizeiinspektion informieren.
+Eingeworfene Münzen fallen durch!
+Automat nimmt nur 0,10€; 0,20€; 0,50€; 1,00€ und 2,00€ Münzen an. Es werden nur Beträge in 0,20€ Schritten akzeptiert und Beträge zur halben Stunde (x,50€). Erlaubt sind somit nur Beträge, welche mit x,20€; x,40€; x,50€; x,60€; x,80€ und x,00€ enden. Bei Überzahlung (über 6,00€) wird der gesamte Betrag wieder ausgeworfen.
+
+Landeshauptstadt München
+Baureferat
+Tiefbau
+Verkehrszeichenbetrieb
+Telefon
+- +49 89 233-96250
+Internet
+- E-Mail schreiben
+Post
+Landeshauptstadt München
+Baureferat
+Tiefbau
+Verkehrszeichenbetrieb
+Schragenhofstraße 6
+80992 München
+Fax: 089 233-32340
+Adresse
+Schragenhofstraße 6
+80992 München
+Öffnungszeiten
+Montag 8.00 – 15.30 Uhr
+Dienstag 8.00 – 15.30 Uhr
+Mittwoch 8.00 – 15.30 Uhr
+Donnerstag 8.00 – 15.00 Uhr
+Freitag 8.00 – 11.30 Uhr
+Die Störungstelefonnummer ist durchgehend während der Parkgebührenpflicht von 9 - 23 Uhr erreichbar.
+Barrierefreiheit & Anfahrt
+Anfahrt mit MVV
+Karte im Vollbildmodus anzeigen
+Karte öffnen

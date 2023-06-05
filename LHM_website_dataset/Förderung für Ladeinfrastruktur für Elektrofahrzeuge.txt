@@ -1,0 +1,82 @@
+Förderung für Ladeinfrastruktur für Elektrofahrzeuge
+
+Wenn Sie eine Ladestation für Elektrofahrzeuge oder eine elektrische Vorrüstung errichten, können Sie eine Förderung beantragen.
+
+Erst nach Erhalt der Freigabe zum vorzeitigen Maßnahmebeginn dürfen Sie die Errichtung einer Ladestation oder einer elektrischen Vorrüstung beauftragen.
+Eine Doppelförderung mit Förderprogrammen des Bundes oder des Landes ist ausgeschlossen.
+
+Voraussetzungen
+Allgemeine Voraussetzungen:
+- Versorgung mit Ökostrom
+- Standort im Stadtgebiet München auf Privatgrund (öffentlich oder nicht öffentlich zugänglich)
+- Es werden maximal 50 Ladepunkte und 50 Vorrüstungen pro Kalenderjahr und Antragsteller gefördert.
+- In einem Fördervorhaben muss mindestens eine Ladestation mit mindestens einem Ladepunkt errichtet werden.
+Spezielle Voraussetzungen entnehmen Sie bitte der Förderrichtlinie für Elektromobilität im Download Bereich.
+
+Benötigte Unterlagen
+- Einen vorzeitigen Maßnahmebeginn können Sie formlos per Email mit der Art und Anzahl der Ladeinfrastruktur beantragen.
+- Ein Antrag kann ab dem 1. April 2023 im Förderportal gestellt werden
+
+Dauer & Kosten
+Gebührenrahmen
+Es fallen keine Gebühren an
+
+Rechtliche Grundlagen
+Das Förderprogramm Klimaneutrale Antriebe ist eine freiwillige Leistung der Landeshauptstadt München. Es besteht kein Rechtsanspruch auf Zuwendungen. Die Zuteilung erfolgt im Rahmen der haushaltsrechtlich zur Verfügung stehenden Mittel.
+
+Fragen & Antworten
+Was wird gefördert?
+Förderfähig ist öffentlich zugängliche und nicht öffentlich zugängliche Ladeinfrastruktur für das Laden von E-Pkw. Es wird dabei zwischen folgenden Förderobjekten unterschieden:
+Elektrische Vorrüstungen für Ladepunkte bis 22 kW
+Ladestationen bis 22kW
+Ladestationen mit mehr als 22 kW inklusive elektrischer Vorrüstung.
+Wann wird eine elektrische Vorrüstung gefördert?
+Die Förderung von ausschließlich elektrischer Vorrüstungen ist nicht möglich. Pro Antrag muss mindestens eine Ladestation mit einem Ladepunkt beantragt und errichtet werden. Pro errichtetem beziehungsweise beantragtem Ladepunkt können bis zu zehn elektrische Vorrüstungen gefördert werden. Die Ladestationen müssen im Rahmen eines Fördervorhabens beantragt und errichtet werden. Eine Errichtung außerhalb des geförderten Vorhabens ist nicht möglich.
+Was beinhaltet die elektrische Vorrüstung?
+Die elektrische Vorrüstung beinhaltet alle Arbeiten einschließlich Arbeiten am Hausanschluss bis hin zum elektrischen Anschluss am Stellplatz des Ladepunkts. Enthalten sind Kosten für Planung, Lastmanagement und Kosten für Verkabelung. Auch Erdarbeiten die in direktem Zusammenhang mit der Ladeinfrastruktur stehen können bei den Kosten der Vorrüstung angerechnet werden.
+Werden auch sogenannten mobile Ladestationen gefördert?
+Nein, da zwingende Vorraussetzung für die Förderung sowohl der Bezug mit Ökostrom als auch der Standort im Stadtgebiet München ist, können nur Ladestationen gefördert werden die fest mit dem vorhandenen Hausnetz verbunden sind. Eine angeschlossene Ladestation über eine Steckerverbindung ist nicht förderfähig.
+Wer kann einen Förderantrag stellen?
+Förderanträge können von natürlichen und juristischen Personen des öffentlichen und privaten Rechts und Wohnungseigentümergesellschaften gestellt werden.
+Wo kann ich einen Förderantrag stellen?
+Derzeit kann per Email ein vorzeitiger Maßnahmebeginn beantragt werden. Die Antragstellung wird erst ab dem 1. April 2023 im Förderportal möglich sein.
+Wann darf die Installation der Ladeinfrastruktur beauftragt werden?
+Der Kauf beziehungsweise die Bestellung der Ladeinfrastruktur darf erst nach dem Erhalt der Freigabe zum vorzeitigen Maßnahmebeginn erfolgen.
+Gilt eine Anzahlung bereits als Kauf?
+Ja, eine Anzahlung zählt als geschlossener Kaufvertrag und ist erst nach dem Erhalt der Freigabe zum vorzeitigen Maßnahmebeginn erlaubt. Eine Anzahlung im Rahmen eines Crowdfundings zählt ebenfalls als Beginn der Beschaffung.
+Wie hoch sind die Förderbeträge?
+Ladeinfrastruktur wird mit 40 % der Nettokosten gefördert. Der maximale Förderbetrag ist abhängig von der Art der Ladestation.
+Elektrische Vorrüstung für Ladepunkte bis 22 kW: 1.000 € pro Ladepunkt
+Ladestation bis 22 kW: 500 € pro Ladepunkt
+Ladestation inklusive Vorrüstung ab 22 kW: 10.000 € pro Ladepunkt
+Kauf oder Miete?
+Bei Ladeinfrastruktur ist eine Förderung von Kauf , Miete oder Leasing möglich. Gefördert werden die Leasing- beziehungsweise Mietkosten über 3 Jahre.
+Gibt es weitere Voraussetzungen für die Förderung?
+Für jede geförderte Ladeeinrichtung ist eine Haltedauer von 36 Monaten zwingend vorgeschrieben. Die Haltedauer beginnt mit der Auszahlung des Förderbetrags.
+Geförderte Ladeeinrichtungen müssen innerhalb der Stadtgrenzen Münchens installiert und mit Ökostrom betrieben werden.
+Die Errichtung darf nur auf Privatgrund und im öffentlich oder nicht öffentlich zugänglichen Bereich erfolgen.
+Was ist sonst noch wichtig?
+Förderfähig sind maximal 50 Ladepunkte und 50 elektrische Vorrüstungen pro Kalenderjahr und Antragsteller.
+Eine Doppelförderung mit Förderprogrammen des Bundes oder des Landes ist ausgeschlossen.
+Wenn die Fördermittel verbraucht sind, besteht kein weiterer Anspruch auf Förderung.
+
+Links & Downloads
+Förderrichtlinie
+Merkblatt zum Förderverfahren
+
+Landeshauptstadt München
+Referat für Klima- und Umweltschutz
+SG E-Mobilität
+Internet
+- E-Mail schreiben
+Post
+Landeshauptstadt München
+Referat für Klima- und Umweltschutz
+SG E-Mobilität
+Adresse
+Bayerstraße 28a
+80335 München
+Barrierefreiheit & Anfahrt
+Anfahrt mit MVV
+Karte im Vollbildmodus anzeigen
+Karte öffnen
